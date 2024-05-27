@@ -1,0 +1,52 @@
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\EntityFramework.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\MySql.Data.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Data.SQLite.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Memory.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Buffers.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\EntityFramework.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\MySql.Data.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\System.Data.SQLite.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Склад_готовой_продукции.Admin.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Склад_готовой_продукции.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Склад_готовой_продукции.Registration.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\Демоэкзамен.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\Демоэкзамен.exe
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\bin\Debug\Демоэкзамен.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.exe
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен\Демоэкзамен\obj\Debug\Демоэкзамен.User.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\Демоэкзамен.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\Демоэкзамен.exe
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\Демоэкзамен.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\EntityFramework.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\System.Data.SQLite.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\EntityFramework.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\bin\Debug\System.Data.SQLite.xml
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Склад_готовой_продукции.Admin.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Склад_готовой_продукции.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.User.resources
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.csproj.CopyComplete
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.exe
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Демоэкзамен Зайцев\Демоэкзамен\obj\Debug\Демоэкзамен.show_zayvka.resources
